@@ -1,0 +1,74 @@
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\bin\Debug\Yazılım Test Aracı.exe.config
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmLogin.resources
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\bin\Debug\Yazılım Test Aracı.exe
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\bin\Debug\Yazılım Test Aracı.pdb
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.exe
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.pdb
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfProjects.resources
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertProjects.resources
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfProcess.resources
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertProcess.resources
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfUserWorkFollow.resources
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\bin\Debug\Yazılım Test Aracı.exe.config
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.exe
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.pdb
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\bin\Debug\Yazılım Test Aracı.exe
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\bin\Debug\Yazılım Test Aracı.pdb
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertProcess.resources
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfProjects.resources
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfUserWorkFollow.resources
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmLogin.resources
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertProjects.resources
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.Properties.Resources.resources
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfMainProcess.resources
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmChangeCompleteRate.resources
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertMainProcess.resources
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertSubProcess.resources
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfMainProcess.resources
+C:\Users\Hüseyin\Desktop\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfSubProcess.resources
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\bin\Debug\Yazılım Test Aracı.exe.config
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\bin\Debug\Yazılım Test Aracı.exe
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\bin\Debug\Yazılım Test Aracı.pdb
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmChangeCompleteRate.resources
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertMainProcess.resources
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertProcess.resources
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertSubProcess.resources
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfMainProcess.resources
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfProcess.resources
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfProjects.resources
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfSubProcess.resources
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfUserWorkFollow.resources
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmLogin.resources
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertProjects.resources
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.exe
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.pdb
+C:\Users\pc\Desktop\5.period\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\bin\Debug\Yazılım Test Aracı.exe.config
+C:\Users\pc\Desktop\5.period\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.exe
+C:\Users\pc\Desktop\5.period\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.pdb
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\bin\Debug\Yazılım Test Aracı.exe.config
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.exe
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.pdb
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\bin\Debug\Yazılım Test Aracı.exe
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\bin\Debug\Yazılım Test Aracı.pdb
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.csprojResolveAssemblyReference.cache
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmChangeCompleteRate.resources
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertMainProcess.resources
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertProcess.resources
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertSubProcess.resources
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfMainProcess.resources
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfProcess.resources
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfProjects.resources
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfSubProcess.resources
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmListOfUserWorkFollow.resources
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmLogin.resources
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.frmInsertProjects.resources
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım_Test_Aracı.Properties.Resources.resources
+C:\Users\fatma\Desktop\NOTES\5.dönem\Software Testing\Yazılım Test Aracı Projesi (MsProject)\142802011-142802029\Yazılım Test Aracı\Yazılım Test Aracı\obj\Debug\Yazılım Test Aracı.csproj.GenerateResource.Cache

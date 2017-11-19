@@ -1,0 +1,8 @@
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\YazılımTestAracıTest\obj\Debug\YazılımTestAracıTest.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\YazılımTestAracıTest\bin\Debug\YazılımTestAracıTest.dll
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\YazılımTestAracıTest\bin\Debug\YazılımTestAracıTest.pdb
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\YazılımTestAracıTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\YazılımTestAracıTest\bin\Debug\Yazılım Test Aracı.exe
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\YazılımTestAracıTest\bin\Debug\Yazılım Test Aracı.pdb
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\YazılımTestAracıTest\obj\Debug\YazılımTestAracıTest.dll
+C:\Users\Hüseyin\Desktop\Gönderilecekler\Yazılım Test Aracı\YazılımTestAracıTest\obj\Debug\YazılımTestAracıTest.pdb
